@@ -1,0 +1,6 @@
+{
+  "name": "Lakhdatar Bags CRM",
+  "description": "Mobile-first CRM for Lakhdatar Bags to manage wholesale bag clients, orders, and automated Call, WhatsApp, and Email followups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
